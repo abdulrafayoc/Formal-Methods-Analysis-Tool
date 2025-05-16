@@ -1,0 +1,13 @@
+{
+  "name": "formal-methods-tool",
+  "version": "1.0.0",
+  "description": "Formal Methods Analysis Tool",
+  "scripts": {
+    "dev": "python app.py",
+    "start": "python app.py"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
